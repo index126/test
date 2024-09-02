@@ -1,61 +1,11 @@
-{
-  "Worksheet": [
+[
     {
-      "Title": "Banana Bundt Cake Recipe"
+        "title": "Chorizo Mozarella Gnocchi Bake",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505"
     },
     {
-      "Title": "Split Pea Soup Recipe"
+        "title": "Garlic Butter Chicken",
+        "image_url": "https://www.averiecooks.com/wp-content/uploads/2021/01/garlicbutterchicken-5.jpg"
     },
-    {
-      "Title": "Overnight Pizza Dough Recipe"
-    },
-    {
-      "Title": "Churros Recipe"
-    },
-    {
-      "Title": "Zucchini Muffins Recipe"
-    },
-    {
-      "Title": "Poached Eggs - Perfect Every Time!"
-    },
-    {
-      "Title": "English Muffins Recipe"
-    },
-    {
-      "Title": "Red Velvet Cake Recipe"
-    },
-    {
-      "Title": "Sautéed Mushrooms Recipe"
-    },
-    {
-      "Title": "Green Smoothie Recipe"
-    },
-    {
-      "Title": "Breakfast Potatoes Recipe"
-    },
-    {
-      "Title": "Stuffed Mushrooms Recipe"
-    },
-    {
-      "Title": "Manicotti Recipe"
-    },
-    {
-      "Title": "Baked Spinach and Artichoke Dip"
-    },
-    {
-      "Title": "Chocolate Banana Bread Recipe"
-    },
-    {
-      "Title": "Fluffy Homemade Biscuits Recipe"
-    },
-    {
-      "Title": "Biscuits and Gravy Recipe"
-    },
-    {
-      "Title": "Easy Homemade Pumpkin Puree"
-    },
-    {
-      "Title": "Blueberry Scones with Lemon Glaze"
-    }
-  ]
-}
+    ...
+]
