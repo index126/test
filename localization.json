@@ -7,5 +7,16 @@
         "title": "Garlic Butter Chicken",
         "image_url": "https://www.averiecooks.com/wp-content/uploads/2021/01/garlicbutterchicken-5.jpg"
     },
-  
+    {
+        "title": "Exciting Chicken Recipes",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2021/06/Chicken-Kiev-5cf9e8a.jpg"
+    },
+    {
+        "title": "Baklava",
+        "image_url": "https://www.simplyrecipes.com/thmb/zSvZNZj70cA9uzOgV3oZEV5dvrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Baklava-LEAD-4-a9d125c8d66547ef9f92c6564a5d5241.jpg"
+    },
+    {
+        "title": "Miscellaneous Image",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpTJLRlYWzUOfb_VxQEAXXHRoII2hJsSr9w&s"
+    }
 ]
