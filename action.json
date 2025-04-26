@@ -1,0 +1,20 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "appstorespy",
+  "name_for_human": "AppStoreSpy",
+  "description_for_model": "Fetch app data from the Play Store using an app ID with AppStoreSpy API.",
+  "description_for_human": "Get Play Store app information by providing an app ID.",
+  "auth": {
+    "type": "api_key",
+    "authorization_type": "header",
+    "name": "API-KEY"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/openapi.yaml",
+    "has_user_authentication": false
+  },
+  "logo_url": "https://your-server.com/logo.png",
+  "contact_email": "support@yourdomain.com",
+  "legal_info_url": "https://your-server.com/legal"
+}
