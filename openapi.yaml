@@ -1,0 +1,83 @@
+openapi: 3.1.0
+info:
+  title: AppStoreSpy API
+  description: Fetch Play Store app information by app ID using AppStoreSpy API.
+  version: 1.0.0
+servers:
+  - url: https://api.appstorespy.com/v1
+    description: Main production server
+paths:
+  /play/apps/{appId}:
+    get:
+      operationId: getAppData
+      summary: Fetch app data from Play Store by app ID.
+      description: Retrieves metadata for a given Android app from Play Store.
+      parameters:
+        - name: appId
+          in: path
+          required: true
+          description: The app ID to fetch information for (e.g., com.mgc.RopeHero.ViceTown).
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully retrieved app data.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AppData'
+        '401':
+          description: Unauthorized — API Key invalid or missing.
+        '404':
+          description: App not found.
+      security:
+        - apiKeyAuth: []
+components:
+  securitySchemes:
+    apiKeyAuth:
+      type: apiKey
+      in: header
+      name: API-KEY
+  schemas:
+    AppData:
+      type: object
+      description: Metadata for an app from AppStoreSpy.
+      properties:
+        title:
+          type: string
+          description: The name of the app.
+          example: Rope Hero: Vice Town
+        description:
+          type: string
+          description: A brief description of the app.
+          example: "Explore an open city as a superhero armed with a rope!"
+        installs:
+          type: integer
+          description: Number of installs.
+          example: 50000000
+        rating:
+          type: number
+          format: float
+          description: Average user rating.
+          example: 4.2
+        reviews:
+          type: integer
+          description: Total number of user reviews.
+          example: 1200000
+        genre:
+          type: string
+          description: App genre or category.
+          example: Action
+        icon:
+          type: string
+          format: uri
+          description: URL to the app's icon.
+          example: "https://play-lh.googleusercontent.com/example-icon.png"
+      required:
+        - title
+        - description
+        - installs
+        - rating
+        - reviews
+        - genre
+        - icon
