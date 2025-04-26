@@ -11,7 +11,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/openapi.yaml",
+    "url": "https://raw.githubusercontent.com/index126/test/main/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "https://your-server.com/logo.png",
