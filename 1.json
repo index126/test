@@ -1,3 +1,18 @@
 {
-  "remote_url": "https://html5.gamedistribution.com/rvvASMiM/27214a866f174c7ebdf0089d6b383d9f/index.html?header=no&skip-guard=1&utm_source=parent_window_api&utm_medium=playgama&flags={%22adv_types_disabled%22:16}"
+
+"cross_promo_enabled": false,
+"click_mode_enabled": false,
+      "clicks_to_show": 10,
+   "apps":[
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/kzNlxF-x6GjmNe640CgH_CXkH294OIwLyPvyisUswhy_y4dVf8fcEa1jLTbxpqTfuhmwAeGgzSdTpHx3YC3Dwnc=w526-h296-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.vegascrime.gangstercityworld",
+         "app_adType":"interstitial"
+      },
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/zK6JkN3N1nu0COtyrho7n_ATYFSJdXv11kChybgjNscwlHjgOVorT5U5RmpaZHL8pz5JzvyCez-GrOSkyVto6w=w526-h296-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.miamivegasim.gangstercityworld",
+         "app_adType":"interstitial"
+      }
+   ]
 }
