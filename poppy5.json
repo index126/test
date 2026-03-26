@@ -1,0 +1,14 @@
+{
+   "apps":[
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/HU-Wzo0PQ9eNQrm3IgnsSJm-aQrJwkj6gwh3kQPdqf477lirMrF1U9z9RekihtU4XAdudhpxL-J_8vP8DIyK=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.fnf.night.battle.hero.mods",
+         "app_adType":"interstitial"
+      },
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/390hgNSIHHU3_VBNvx-XY5a5iPKUMOUvAClMfniF7-dJZy5KCojd7l43NY4GvPkWBijJPs6562iMeZ_0TUCYsA=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.fnf.night.battle.hero.mods",
+         "app_adType":"interstitial"
+      }
+   ]
+}
