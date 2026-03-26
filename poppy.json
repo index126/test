@@ -1,0 +1,14 @@
+{
+   "apps":[
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/kzNlxF-x6GjmNe640CgH_CXkH294OIwLyPvyisUswhy_y4dVf8fcEa1jLTbxpqTfuhmwAeGgzSdTpHx3YC3Dwnc=w526-h296-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.vegascrime.gangstercityworld",
+         "app_adType":"interstitial"
+      },
+      {
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/zK6JkN3N1nu0COtyrho7n_ATYFSJdXv11kChybgjNscwlHjgOVorT5U5RmpaZHL8pz5JzvyCez-GrOSkyVto6w=w526-h296-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.miamivegasim.gangstercityworld",
+         "app_adType":"interstitial"
+      }
+   ]
+}
