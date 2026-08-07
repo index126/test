@@ -5,13 +5,13 @@
       "clicks_to_show": 10,
    "apps":[
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/Ox-XtYljguQANVpEkAsZ93ozDmkgGE9ZCh-q4dlvGyZIUytjWf7UAtv7qE4c7h9KAClp_vvhcKqAGQT9dcieCg=w1052-h592-rw",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.spider.obbydays.forest",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/qEHbXjuRB1WYfbVpRbq5dDrsIaZtwD8-q9wPLIG2qki2tFaS4FIvdKKDRmPVH790gyoYFrnzcsbNoG_F6qM9xQ=w5120-h2880-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.battle.playground.war.block",
          "app_adType":"interstitial"
       },
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/kfDf7wcGgvwVR9eeq7NBcsgYCrf_YCSfBlSQ0DApgId-45YSgc7VntC9xeCFtcs2yOCPKAcZnXxFkNZfb-PINQ=w1052-h592",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.tightsIntheforest.obby.survive",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/VnnPej9KTCOJL6H0XGB5qBapmL_TrKWy5wkrw1JMxdtI-Aa4lhWXESsbl8b1TWmIaEXZmzNfgII5JOAAJKwj4A=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.playground.nightsintheforestsandbox",
          "app_adType":"interstitial"
       }
    ]
