@@ -1,0 +1,27 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Unlocked</title>
+<style>
+  body{margin:0;height:100vh;display:flex;align-items:center;justify-content:center;
+       background:#1b1030;color:#ffe9b8;font-family:system-ui,sans-serif;text-align:center}
+  .card{padding:2rem 2.5rem;border:2px solid #d9a233;border-radius:14px;background:#2b1245}
+  h1{margin:.2em 0;font-size:1.4rem;color:#ffc93c}
+  p{margin:.4em 0 0;opacity:.8;font-size:.95rem}
+</style>
+<div class="card">
+  <h1>Unlocked!</h1>
+  <p>You can return to the game.</p>
+</div>
+<script>
+  // The iOS shell cancels this navigation before it loads, so this page is a
+  // sentinel more than a destination. It only runs on web/Android, where it
+  // hands the result back to the opener.
+  try {
+    if (window.opener && window.opener !== window) {
+      window.opener.postMessage({ contentLocker: "converted",
+                                  sub1: new URLSearchParams(location.search).get("sub1") || "" }, "*");
+      setTimeout(function () { window.close(); }, 800);
+    }
+  } catch (e) {}
+</script>
