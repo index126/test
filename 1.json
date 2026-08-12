@@ -1,6 +1,6 @@
 {
 
-"cross_promo_enabled": true,
+"cross_promo_enabled": false,
 "click_mode_enabled": false,
       "clicks_to_show": 30,
    "apps":[
