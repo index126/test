@@ -1,17 +1,17 @@
 {
 
-"cross_promo_enabled": false,
+"cross_promo_enabled": true,
 "click_mode_enabled": false,
-      "clicks_to_show": 10,
+      "clicks_to_show": 30,
    "apps":[
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/qEHbXjuRB1WYfbVpRbq5dDrsIaZtwD8-q9wPLIG2qki2tFaS4FIvdKKDRmPVH790gyoYFrnzcsbNoG_F6qM9xQ=w5120-h2880-rw",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.battle.playground.war.block",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/ndwT2-BBVKlQx7fdr_8YAZ1hIpjWsDvjxEPbeGNz3ieqHp1iFXovNfSeLKUlNuN1pBAkhcMmMcXDJV7s9GmK=w832-h470-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.animal.hospital.playground.sandbox.ragdoll",
          "app_adType":"interstitial"
       },
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/VnnPej9KTCOJL6H0XGB5qBapmL_TrKWy5wkrw1JMxdtI-Aa4lhWXESsbl8b1TWmIaEXZmzNfgII5JOAAJKwj4A=w1052-h592-rw",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.playground.nightsintheforestsandbox",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/Pednr9h8k8T89Nqus4zursRJTFz6TgK9rlB3cFEYAf2DrPIzu9xW3EXDAaJ-Wod9xpmG5q2KXeT4Yy7BUTbWHQ=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.kpop.demon.hunters.playground",
          "app_adType":"interstitial"
       }
    ]
