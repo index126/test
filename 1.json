@@ -5,13 +5,13 @@
       "clicks_to_show": 30,
    "apps":[
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/ndwT2-BBVKlQx7fdr_8YAZ1hIpjWsDvjxEPbeGNz3ieqHp1iFXovNfSeLKUlNuN1pBAkhcMmMcXDJV7s9GmK=w832-h470-rw",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.animal.hospital.playground.sandbox.ragdoll",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/RcKawlddbgAXLRRwHISYGG_0c1Q-1thJEwhttCYZ4s-IOar7Og6rwPGzJ0wojuIQfB6PVY6Pc6jBNVnw_ngJ=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.hero.usarmy.armyvehicle.transport",
          "app_adType":"interstitial"
       },
       {
-         "app_interstitial_url":"https://play-lh.googleusercontent.com/Pednr9h8k8T89Nqus4zursRJTFz6TgK9rlB3cFEYAf2DrPIzu9xW3EXDAaJ-Wod9xpmG5q2KXeT4Yy7BUTbWHQ=w1052-h592-rw",
-         "app_uri":"https://play.google.com/store/apps/details?id=com.kpop.demon.hunters.playground",
+         "app_interstitial_url":"https://play-lh.googleusercontent.com/RcKawlddbgAXLRRwHISYGG_0c1Q-1thJEwhttCYZ4s-IOar7Og6rwPGzJ0wojuIQfB6PVY6Pc6jBNVnw_ngJ=w1052-h592-rw",
+         "app_uri":"https://play.google.com/store/apps/details?id=com.hero.usarmy.armyvehicle.transport",
          "app_adType":"interstitial"
       }
    ]
