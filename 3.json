@@ -1,1 +1,10 @@
 
+{
+  "promo": {
+    "enabled": true,
+    "appStoreID": "6779754519",
+    "iconURL": "",
+    "title": "We Become What We Behold"
+  },
+  "adsmod": true
+}
