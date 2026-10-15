@@ -6,5 +6,6 @@
     "iconURL": "",
     "title": "We Become What We Behold"
   },
-  "adsmod": false
+  "adsmod": false,
+  "escapeModeEnabled": false
 }
